@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar {
+    justify-content: center; /* Centers the navbar */
+}
+.navbar-nav {
+    align-items: center; /* Align items vertically in the center */
+}
+.navbar-icon {
+    font-size: 24px; /* Size of the center icon */
+    margin: 0 20px; /* Margin around the icon */
+}
